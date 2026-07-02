@@ -1,6 +1,7 @@
 # Transformer Anatomy
 
 A small GPT-style transformer, **trained from scratch** on Shakespeare, **reimplemented from scratch in TypeScript**, and verified numerically against the original PyTorch model — wrapped in an interactive React app that visualizes every internal stage of inference live, in the browser.
+https://amoha-v.github.io/transformer-anatomy/
 
 This is not a simulation and not an animation. The weights are real, the training run actually happened, and every heatmap, attention weight, and probability bar you see is computed in your browser at the moment you interact with the page.
 
